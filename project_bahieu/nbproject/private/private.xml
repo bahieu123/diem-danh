@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/web/index.html</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/src/java/Model/Majors.java</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/web/student/homepageStudent.jsp</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/src/java/Model/Schedule.java</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/src/java/Controller/Teacher/ViewSchedule.java</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/web/html/homepageteacher.html</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/src/java/Controller/Student/ViewScheduleStudent.java</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/web/html/listscheduleteacher.html</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/src/java/DAL/AttendanceDB.java</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/web/teacher/listScheduleTeacher.jsp</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/web/teacher/homepageTeacher.jsp</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/src/java/Controller/Authentication/login.java</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/src/java/Model/Role.java</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/src/java/DAL/AccountDB.java</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/web/teacher/ScheduleforAttendance.jsp</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/src/java/DAL/ScheduleDB.java</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/src/java/DAL/RoleDB.java</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/web/html/listtimetablestudent.html</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/src/java/Controller/Teacher/ViewScheduleForAtten.java</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/src/java/DAL/ClassDB.java</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/web/student/listTimetableStudent.jsp</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/web/html/homepagestudent.html</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/src/java/Model/Attendance.java</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/src/java/Model/Atten.java</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/src/java/Model/Classs.java</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/src/java/Model/Account.java</file>
+            <file>file:/D:/Documents/GitHub/project/project_bahieu/web/html/scheduleforattendance.html</file>
+        </group>
+    </open-files>
+</project-private>
